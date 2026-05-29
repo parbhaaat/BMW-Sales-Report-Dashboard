@@ -125,18 +125,3 @@ Created interactive visualizations including:
 
 ---
 
-# 🔗 Connect With Me
-
-### 💼 LinkedIn
-Add Your LinkedIn Profile Here
-
-### 💻 GitHub
-Add Your GitHub Profile Here
-
----
-
-# 👨‍💻 Author
-
-## **Parbhaat Sharma**
-
-⭐ If you liked this project, consider giving it a star on GitHub!
