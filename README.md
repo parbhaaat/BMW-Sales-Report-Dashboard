@@ -16,7 +16,7 @@ The dashboard provides business insights into:
 
 # 📊 Dashboard Preview
 
-![BMW Dashboard](<img width="1385" height="743" alt="Screenshot 2026-05-29 171344" src="https://github.com/user-attachments/assets/409f2233-8b5c-4503-b192-b47b934b4e40" />
+<img width="1385" height="743" alt="Screenshot 2026-05-29 171344" src="https://github.com/user-attachments/assets/409f2233-8b5c-4503-b192-b47b934b4e40" />
 
 
 ---
